@@ -2,6 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
+/**
+ * main - is to Determinate if a number is positive, negative or zero.
+ * return: always 0 (Good)
+ **/
 
 int main(void)
 {
